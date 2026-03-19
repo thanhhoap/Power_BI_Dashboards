@@ -27,7 +27,7 @@ Formulated measures to derive key insights and KPIs like Median Yealy Salary and
 
 ![Dashboard Page 1](/images/project1_page1.png)
 
-This is your mission control for the data job market. It showcases key KPIs like total job counts, median salary and top job titles to give you a quick understanding of what's happening in the job market at a glance.
+This page showcases key KPIs like total job counts, median salary and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
 ### Page 2: Job Title Drill Through
 
